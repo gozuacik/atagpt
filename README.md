@@ -9,8 +9,92 @@
 
 ### Atasözleri
 
-#### A ile Başlayan Atasözleri
-* AdRoll http://tech.adroll.com/blog/
+#### \# Atasözleri
+* Boş
 
-#### B ile Başlayan Atasözleri
-* AdRoll http://tech.adroll.com/blog/
+#### A Atasözleri
+* Boş
+
+#### B Atasözleri
+* "Bir kuşun kanadı kırıldığında, sürüsüyle uçmak kolay olmaz." (Orijinal Atasözü: "Bir elin nesi var, iki elin sesi var.")
+
+#### C Atasözleri
+* Boş
+
+#### Ç Atasözleri
+* Boş
+
+#### D Atasözleri
+* Boş
+
+#### E Atasözleri
+* Boş
+
+#### F Atasözleri
+* Boş
+
+#### G Atasözleri
+* Boş
+
+#### Ğ Atasözleri
+* Boş
+
+#### H Atasözleri
+* Boş
+
+#### I Atasözleri
+* Boş
+
+#### İ Atasözleri
+* Boş
+
+#### J Atasözleri
+* Boş
+
+#### K Atasözleri
+* Boş
+
+#### L Atasözleri
+* Boş
+
+#### M Atasözleri
+* Boş
+
+#### N Atasözleri
+* Boş
+
+#### O Atasözleri
+* Boş
+
+#### Ö Atasözleri
+* Boş
+
+#### P Atasözleri
+* Boş
+
+#### R Atasözleri
+* Boş
+
+#### S Atasözleri
+* Boş
+
+#### Ş Atasözleri
+* Boş
+
+#### T Atasözleri
+* Boş
+
+#### U Atasözleri
+* Boş
+
+#### Ü Atasözleri
+* Boş
+
+#### V Atasözleri
+* Boş
+
+#### Y Atasözleri
+* Boş
+
+#### Z Atasözleri
+* Boş
