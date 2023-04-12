@@ -9,5 +9,8 @@
 
 ### Atasözleri
 
+#### A ile Başlayan Atasözleri
+* AdRoll http://tech.adroll.com/blog/
+
 #### B ile Başlayan Atasözleri
 * AdRoll http://tech.adroll.com/blog/
