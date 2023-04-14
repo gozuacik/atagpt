@@ -27,7 +27,7 @@
 * "Çay kaşığıyla bal eklersen tatlı olur, kepçeyle eklersen acı." (Orijinal Atasözü: "Çoğu zarar, azı karar.")
 
 #### D Atasözleri
-* Boş
+* "Diktiğin tohumun gölgesinde dinlenirsin." (Orijinal Atasözü: "Ne ekersen, onu biçersin.")
 
 #### E Atasözleri
 * Boş
@@ -49,13 +49,13 @@
 * "Işık görülmeyen yerde hastalık saklanır." (Orijinal Atasözü: "Güneş girmeyen eve doktor girer.")
 
 #### İ Atasözleri
-* Boş
+* "İki lider bir ülkeyi yönetemez." (Orijinal Atasözü: "İki cambaz bir ipte oynamaz.")
 
 #### J Atasözleri
 * Boş
 
 #### K Atasözleri
-* Boş
+* "Keskin bir bıçak, koruyucu bir kılıfın olmadığı kutuya konulunca kendisine de zarar verir." (Orijinal Atasözü: "Keskin sirke küpüne zarardır.")
 
 #### L Atasözleri
 * Boş
@@ -79,7 +79,8 @@
 * Boş
 
 #### S Atasözleri
-* Boş
+* "Sürekli kullanılan yol hiç yabani otlara bırakılmaz." (Orijinal Atasözü: "İşleyen demir pas tutmaz.")
+* "Sözle çivi çakılmaz." (Orijinal Atasözü: "Lafla peynir gemisi yürümez.")
 
 #### Ş Atasözleri
 * Boş
