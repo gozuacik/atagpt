@@ -17,12 +17,14 @@
 
 #### B Atasözleri
 * "Bir kuşun kanadı kırıldığında, sürüsüyle uçmak kolay olmaz." (Orijinal Atasözü: "Bir elin nesi var, iki elin sesi var.")
+* "Bir kuşun kanadı diğer kanadı desteklemezse, uçamaz." (Orijinal Atasözü: "El elden üstündür")
+* "Bir gün gülen, ertesi gün gözyaşı döker." (Orijinal Atasözü: "Gülme komşuna, gelir başına.")
 
 #### C Atasözleri
 * Boş
 
 #### Ç Atasözleri
-* Boş
+* "Çay kaşığıyla bal eklersen tatlı olur, kepçeyle eklersen acı." (Orijinal Atasözü: "Çoğu zarar, azı karar.")
 
 #### D Atasözleri
 * Boş
@@ -40,10 +42,11 @@
 * Boş
 
 #### H Atasözleri
-* Boş
+* "Her tohum, büyük bir ormanın başlangıcını taşır." (Orijinal Atasözü: "Damlaya damlaya göl olur.")
+* "Her gemi kendi limanında demir atar". (Orijinal Atasözü: "Her koyun kendi bacağından asılır.")
 
 #### I Atasözleri
-* Boş
+* "Işık görülmeyen yerde hastalık saklanır." (Orijinal Atasözü: "Güneş girmeyen eve doktor girer.")
 
 #### İ Atasözleri
 * Boş
@@ -82,7 +85,7 @@
 * Boş
 
 #### T Atasözleri
-* Boş
+* "Toprağı eşelemeden çiçek açmaz." (Orijinal Atasözü: "Acele işe Şeytan karışır.")
 
 #### U Atasözleri
 * Boş
