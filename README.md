@@ -16,21 +16,21 @@
 * Boş
 
 #### B Atasözleri
-* "Beklenmeyen düşman kılıcın keskin tarafıyla vurur." (Orijinal Atasözü: "Ummadığın taş baş yarar.")
-* "Bir gün gülen, ertesi gün gözyaşı döker." (Orijinal Atasözü: "Gülme komşuna, gelir başına.")
-* "Bir kum tanesi küçüktür ama gözü rahatsız eder." (Orijinal Atasözü: "Sinek küçüktür ama mide bulandırır.")
-* "Bir kuşun kanadı diğer kanadı desteklemezse, uçamaz." (Orijinal Atasözü: "El elden üstündür")
-* "Bir kuşun kanadı kırıldığında, sürüsüyle uçmak kolay olmaz." (Orijinal Atasözü: "Bir elin nesi var, iki elin sesi var.")
+* "Beklenmeyen düşman kılıcın keskin tarafıyla vurur." (Özgün Atasözü: "Ummadığın taş baş yarar.")
+* "Bir gün gülen, ertesi gün gözyaşı döker." (Özgün Atasözü: "Gülme komşuna, gelir başına.")
+* "Bir kum tanesi küçüktür ama gözü rahatsız eder." (Özgün Atasözü: "Sinek küçüktür ama mide bulandırır.")
+* "Bir kuşun kanadı diğer kanadı desteklemezse, uçamaz." (Özgün Atasözü: "El elden üstündür")
+* "Bir kuşun kanadı kırıldığında, sürüsüyle uçmak kolay olmaz." (Özgün Atasözü: "Bir elin nesi var, iki elin sesi var.")
 
 #### C Atasözleri
 * Boş
 
 #### Ç Atasözleri
-* "Çay kaşığıyla bal eklersen tatlı olur, kepçeyle eklersen acı." (Orijinal Atasözü: "Çoğu zarar, azı karar.")
+* "Çay kaşığıyla bal eklersen tatlı olur, kepçeyle eklersen acı." (Özgün Atasözü: "Çoğu zarar, azı karar.")
 
 #### D Atasözleri
-* "Denizden ayrılan balık kaybolur." (Orijinal Atasözü: "Sürüden ayrılanı kurt kapar.")
-* "Diktiğin tohumun gölgesinde dinlenirsin." (Orijinal Atasözü: "Ne ekersen, onu biçersin.")
+* "Denizden ayrılan balık kaybolur." (Özgün Atasözü: "Sürüden ayrılanı kurt kapar.")
+* "Diktiğin tohumun gölgesinde dinlenirsin." (Özgün Atasözü: "Ne ekersen, onu biçersin.")
 
 #### E Atasözleri
 * Boş
@@ -45,20 +45,20 @@
 * Boş
 
 #### H Atasözleri
-* "Her gemi kendi limanında demir atar". (Orijinal Atasözü: "Her koyun kendi bacağından asılır.")
-* "Her tohum, büyük bir ormanın başlangıcını taşır." (Orijinal Atasözü: "Damlaya damlaya göl olur.")
+* "Her gemi kendi limanında demir atar". (Özgün Atasözü: "Her koyun kendi bacağından asılır.")
+* "Her tohum, büyük bir ormanın başlangıcını taşır." (Özgün Atasözü: "Damlaya damlaya göl olur.")
 
 #### I Atasözleri
-* "Işık görülmeyen yerde hastalık saklanır." (Orijinal Atasözü: "Güneş girmeyen eve doktor girer.")
+* "Işık görülmeyen yerde hastalık saklanır." (Özgün Atasözü: "Güneş girmeyen eve doktor girer.")
 
 #### İ Atasözleri
-* "İki lider bir ülkeyi yönetemez." (Orijinal Atasözü: "İki cambaz bir ipte oynamaz.")
+* "İki kaptan bir gemiyi yürütemez." (Özgün Atasözü: "İki cambaz bir ipte oynamaz.")
 
 #### J Atasözleri
 * Boş
 
 #### K Atasözleri
-* "Keskin bir bıçak, koruyucu bir kılıfın olmadığı kutuya konulunca kendisine de zarar verir." (Orijinal Atasözü: "Keskin sirke küpüne zarardır.")
+* "Keskin bir bıçak, koruyucu bir kılıfın olmadığı kutuya konulunca kendisine de zarar verir." (Özgün Atasözü: "Keskin sirke küpüne zarardır.")
 
 #### L Atasözleri
 * Boş
@@ -82,15 +82,15 @@
 * Boş
 
 #### S Atasözleri
-* "Sıcak bir el ateşi, tatlı bir söz kalbi eritir." (Orijinal Atasözü: "Tatlı dil yılanı deliğinden çıkarır.")
-* "Sözle çivi çakılmaz." (Orijinal Atasözü: "Lafla peynir gemisi yürümez.")
-* "Sürekli kullanılan yol hiç yabani otlara bırakılmaz." (Orijinal Atasözü: "İşleyen demir pas tutmaz.")
+* "Sıcak bir el ateşi, tatlı bir söz kalbi eritir." (Özgün Atasözü: "Tatlı dil yılanı deliğinden çıkarır.")
+* "Sözle çivi çakılmaz." (Özgün Atasözü: "Lafla peynir gemisi yürümez.")
+* "Sürekli kullanılan yol hiç yabani otlara bırakılmaz." (Özgün Atasözü: "İşleyen demir pas tutmaz.")
 
 #### Ş Atasözleri
 * Boş
 
 #### T Atasözleri
-* "Toprağı eşelemeden çiçek açmaz." (Orijinal Atasözü: "Acele işe Şeytan karışır.")
+* "Toprağı eşelemeden çiçek açmaz." (Özgün Atasözü: "Acele işe Şeytan karışır.")
 
 #### U Atasözleri
 * Boş
