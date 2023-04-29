@@ -16,6 +16,7 @@
 * Boş
 
 #### B Atasözleri
+* "Beklenmeyen düşman kılıcın keskin tarafıyla vurur." (Orijinal Atasözü: "Ummadığın taş baş yarar.")
 * "Bir gün gülen, ertesi gün gözyaşı döker." (Orijinal Atasözü: "Gülme komşuna, gelir başına.")
 * "Bir kum tanesi küçüktür ama gözü rahatsız eder." (Orijinal Atasözü: "Sinek küçüktür ama mide bulandırır.")
 * "Bir kuşun kanadı diğer kanadı desteklemezse, uçamaz." (Orijinal Atasözü: "El elden üstündür")
@@ -28,6 +29,7 @@
 * "Çay kaşığıyla bal eklersen tatlı olur, kepçeyle eklersen acı." (Orijinal Atasözü: "Çoğu zarar, azı karar.")
 
 #### D Atasözleri
+* "Denizden ayrılan balık kaybolur." (Orijinal Atasözü: "Sürüden ayrılanı kurt kapar.")
 * "Diktiğin tohumun gölgesinde dinlenirsin." (Orijinal Atasözü: "Ne ekersen, onu biçersin.")
 
 #### E Atasözleri
@@ -80,6 +82,7 @@
 * Boş
 
 #### S Atasözleri
+* "Sıcak bir el ateşi, tatlı bir söz kalbi eritir." (Orijinal Atasözü: "Tatlı dil yılanı deliğinden çıkarır.")
 * "Sözle çivi çakılmaz." (Orijinal Atasözü: "Lafla peynir gemisi yürümez.")
 * "Sürekli kullanılan yol hiç yabani otlara bırakılmaz." (Orijinal Atasözü: "İşleyen demir pas tutmaz.")
 
